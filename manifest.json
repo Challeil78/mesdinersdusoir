@@ -1,0 +1,21 @@
+{
+  "name": "Mes Dîners du Soir",
+  "short_name": "Mes Dîners",
+  "description": "Planifiez vos dîners, générez votre liste de courses",
+  "start_url": "/",
+  "display": "standalone",
+  "orientation": "portrait-primary",
+  "theme_color": "#1A0A02",
+  "background_color": "#F2EBE0",
+  "lang": "fr",
+  "icons": [
+    {
+      "src": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 512 512'><rect width='512' height='512' rx='96' fill='%231A0A02'/><text y='380' x='50%' font-size='320' text-anchor='middle' font-family='serif'>🍽</text></svg>",
+      "sizes": "any",
+      "type": "image/svg+xml",
+      "purpose": "any maskable"
+    }
+  ],
+  "categories": ["food", "lifestyle", "utilities"],
+  "screenshots": []
+}
